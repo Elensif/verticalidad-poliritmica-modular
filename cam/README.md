@@ -10,3 +10,7 @@ Corte (capa azul)= Speed (mm/s) 80, sin repeticiones, Min Power(%) 20, Max Power
 Los archivos "Pieza separación interior.dwg", "Piezas interiores de cajones.dwg", "Piezas mecanismo carrito" corresponden a piezas que serán cortadas en MDF de 3mm de espesor. Los parámetros utilizados para estos archivos fueron:
 
 Speed (mm/s) 30, sin repeticiones, Min Power(%) 70, Max Power(%) 70.
+
+
+Los archivos "Dientes para cremallera.dwg" y "Engranaje presión para potenciometro.dwg", corresponden a las piezas que permiten el movimiento del potenciómerto del mecanismo eléctrico para hacer funcionar el sistema del tótem. 
+Dentro del archivo "Dientes para cremallera.dwg" se encuentra un gran engranaje, para crear la cremallera según la extensión que se necesite se debe tomar un diente del engranaje e ir colocándolo uno al lado del otro hasta llegar a la longitud deseada, en el proyecto actual se hizo una pieza de 11cm x 2cm x 5mm, en donde a lo largo de los 11 centímetros va la cremallera.
