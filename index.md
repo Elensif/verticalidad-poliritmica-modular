@@ -1,32 +1,18 @@
 ## Verticalidad polirítima modular
 
-You can use the [editor on GitHub](https://github.com/Elensif/verticalidad-poliritmica-modular/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Imagen principal]([src](https://wiki.ead.pucv.cl/images/a/a5/Render_Verticalidad_Poliritmica.png))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Documentación del proyecto Los archivos de las siguientes carpetas corresponden a las piezas necesarias para armar el proyecto "Verticalidad polirítmica modular", dentro de ellas se podrán encontrar los documentos necesarios, descargables y editables para crear desde 0 el tótem.
 
-### Markdown
+El registro del proyecto de inicio a fin se puede encontrar en el siguiente enlace:[Verticalidad polirítima modular](https://wiki.ead.pucv.cl/Verticalidad_polir%C3%ADtmica_modular)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Archivos para la reproducción del proyecto
 
-```markdown
-Syntax highlighted code block
+[Archivos 3D](https://github.com/Elensif/verticalidad-poliritmica-modular/tree/main/Cad)
+[Archivos de dibujos DWG editables](https://github.com/Elensif/verticalidad-poliritmica-modular/tree/main/cam)
+[Código para motor stepper](https://github.com/Elensif/verticalidad-poliritmica-modular/tree/main/ino/StepperControl)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
