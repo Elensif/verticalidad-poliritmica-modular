@@ -1,6 +1,6 @@
 ## Verticalidad polirítima modular
 
-![Imagen principal]([src](https://wiki.ead.pucv.cl/images/a/a5/Render_Verticalidad_Poliritmica.png))
+![Imagen principal]((https://wiki.ead.pucv.cl/images/a/a5/Render_Verticalidad_Poliritmica.png))
 
 Documentación del proyecto Los archivos de las siguientes carpetas corresponden a las piezas necesarias para armar el proyecto "Verticalidad polirítmica modular", dentro de ellas se podrán encontrar los documentos necesarios, descargables y editables para crear desde 0 el tótem.
 
