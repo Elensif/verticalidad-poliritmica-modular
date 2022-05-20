@@ -6,7 +6,7 @@ Los autores de este proyecto son Nicolás Dragas, Daniela Sifaqui y Alejandra Wi
 El registro del proyecto de inicio a fin se puede encontrar en el siguiente enlace: https://wiki.ead.pucv.cl/Verticalidad_polir%C3%ADtmica_modular
 
 
-![alt text]([http://url/to/img.png)](https://wiki.ead.pucv.cl/images/a/a5/Render_Verticalidad_Poliritmica.png)
+![imagen](https://wiki.ead.pucv.cl/images/a/a5/Render_Verticalidad_Poliritmica.png)
 
 Dentro del repositorio existen 3 carpetas: cam, cad e ino. Dentro de la carpeta "cam" se encuentran los archivos de dibujo en formato "dwg" para descargar y editar, dentro de la carpeta "cad" se encuentran los modelos tridimensionales y en la carpeta "ino" se encuentra el código utilizado en arduino.
 
