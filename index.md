@@ -18,7 +18,3 @@ El registro del proyecto de inicio a fin se puede encontrar en el siguiente enla
 
 
 [Repositorio](https://github.com/Elensif/verticalidad-poliritmica-modular/settings/pages).
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
