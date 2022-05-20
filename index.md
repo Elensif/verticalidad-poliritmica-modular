@@ -2,7 +2,8 @@
 
 ![imagen](https://wiki.ead.pucv.cl/images/a/a5/Render_Verticalidad_Poliritmica.png)
 
-Documentación del proyecto Los archivos de las siguientes carpetas corresponden a las piezas necesarias para armar el proyecto "Verticalidad polirítmica modular", dentro de ellas se podrán encontrar los documentos necesarios, descargables y editables para crear desde 0 el tótem.
+Documentación del proyecto Este proyecto corresponde a un trabajo perteneciente al segundo módulo del Taller de interacción, en dónde a partir de un trabajo previo de observación se diseño un tótem de 2mts. de altura con el cual una persona pueda interactuar. Los archivos de las siguientes carpetas corresponden a las piezas necesarias para armar el proyecto "Verticalidad polirítmica modular", dentro de ellas se podrán encontrar los documentos necesarios, descargables y editables para crear desde 0 el tótem.
+
 
 El registro del proyecto de inicio a fin se puede encontrar en el siguiente enlace:
 [Verticalidad polirítima modular](https://wiki.ead.pucv.cl/Verticalidad_polir%C3%ADtmica_modular)
